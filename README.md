@@ -1,16 +1,27 @@
-## Hi there 👋
+<h3 align="center">Welcome to Mostafa's GitHub! 👋</h3>
 
-<!--
-**mostafaelzeny/mostafaelzeny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=60&lines=M.Sc.+in+Embedded+Systems+%40+TU+Chemnitz;Embedded+Systems+%26+Robotics+Engineer;Exploring+AI+Tools+for+Programming" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 **M.Sc. in Embedded Systems** — TU Chemnitz, Germany
+- 🤖 Passionate about **Embedded Systems** and **Embedded Development for Robotics**
+- ✨ Interested in **AI tools for programming** and modern developer workflows
+- 🌱 Continuously building hands-on embedded projects
+
+---
+
+### 🧰 Embedded & Robotics Skills
+
+#### ⚙️ Core Skills
+- Embedded C / C++ & Python
+- Microcontrollers & Hardware Interfacing (Arduino, STM32, Serial Communication)
+- ROS 2 (Nodes, Services, Actions, RViz)
+- Kinematics & Robotic Arm Control
+- Git, Linux & AI-Assisted Development Tools
