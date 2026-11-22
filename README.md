@@ -1,4 +1,4 @@
-<h3 align="center">Welcome to Mostafa's GitHub! 👋</h3>
+<h3 align="center">Welcome to Moustafa's GitHub! 👋</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
