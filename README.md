@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **M.Sc. in Embedded Systems** — TU Chemnitz, Germany
+- 🎓 **M.Sc. student in Embedded Systems** — TU Chemnitz, Germany
 - 🤖 Passionate about **Embedded Systems** and **Embedded Development for Robotics**
 - ✨ Interested in **AI tools for programming** and modern developer workflows
 - 🌱 Continuously building hands-on embedded projects
